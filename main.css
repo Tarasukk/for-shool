@@ -1,0 +1,140 @@
+
+
+body{
+    margin: 0;
+    padding: 0;  
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    background: -webkit-linear-gradient(135deg, rgb(240, 214, 23), rgb(240, 182, 7));
+    background: -moz-linear-gradient(135deg, rgb(240, 214, 23), rgb(240, 182, 7));
+    background: linear-gradient(135deg, rgb(240, 214, 23), rgb(240, 182, 7));
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.Flogo{
+   width: 110px;
+   height: 110px;
+
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.wapper{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.inf{
+    text-decoration: none;
+    font-size: 14px;
+    padding-top: 45px;
+    color:#fff;
+    
+}
+.menu{
+    padding-top: 40px;
+    width: 20px;
+    height: 20px;
+}
+.main-topic{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 72px;
+    color: #fff;
+    text-align: center;
+}
+.second-topic{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-size: 152px;
+    color: #fff;
+    text-align: center;
+    
+}
+.white-line{
+   margin-top: 40px;
+   margin-left:48% ; 
+   margin-bottom: 50px;
+}
+.learn{
+
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    border: 5px solid white;
+    margin-left:42%;
+    padding: 10px 40px;
+}
+.all-line{
+    margin-top: 100px;
+    
+}
+.all{
+    font-family: 'Montserrat', sans-serif;
+    width: 250px;
+    height: 5px;
+    
+}
+.sp{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+
+.down-line{
+    color: #ffffff;
+    font-size : 18px;
+}
+
+.part2-first-topic{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #333;
+    padding-top: 100px;
+}
+.part2-second-topic{
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    
+    
+}
+.mini-orange-line{
+     margin-left: 48%;
+     
+     
+}
+.part2-text{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #d0d0d0;
+}
+.wapper3{
+    padding-top: 90px;
+    padding-bottom: 110px;
+    display: flex;
+    justify-content: space-between;
+}
+.fimg{
+    width: 250;
+    height: 250px;
+}
+
+    footer{
+        background: #f8f8f8;
+        padding: 20px 0;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .end{
+        color: orange;
+    }
