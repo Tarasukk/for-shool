@@ -19,6 +19,7 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
   *   <a href="https://www.postgresql.org/">Postgres</a> - is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
 <br>
 <br>
-<a href=""></a>
+
 
 <h2>🚀 Usage</h2>
+Than after installation of rails and other things and all configuration below you can run code running command in your terminal or IDE:rails s
