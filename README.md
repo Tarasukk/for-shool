@@ -79,7 +79,7 @@ Will be updated:smile:
 <br>
 <br>
 <h2>:phone: Contact me</h2>
-:email:<a href="https://t.me/TarasUK1"> Email</a>
+:email:<a href="mailto:relaxsonik@gmail.com"> Email</a>
 <br>
 <br>
-:phone:<a href="mailto:relaxsonik@gmail.com"> Telegram</a>
+:phone:<a href="https://t.me/TarasUK1 "> Telegram</a>
