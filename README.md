@@ -26,3 +26,7 @@ Than after installation of rails and other things and all configuration below yo
 <br>
 rails s
 <h2>📝 Decomposition of tasks</h2>
+ :white_check_mark:Initial deploy ptoject.
+ :white_check_mark:Database hide connection string.
+ :white_check_mark:Logs and Application Insights.
+ :white_check_mark:CI/CD
