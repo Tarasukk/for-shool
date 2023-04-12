@@ -74,10 +74,11 @@ rails s
 <h4>4. API</h4>
 :white_check_mark: Integrate with coingeco api
 <br>
+<br>
 Will be updated:smile:
 <br>
 <br>
-<h2>📱 Contact me</h2>
+<h2>:phone: Contact me</h2>
 :email:<a href="https://t.me/TarasUK1"> Email</a>
 <br>
 <br>
