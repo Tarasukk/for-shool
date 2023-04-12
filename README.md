@@ -26,7 +26,7 @@ Than after installation of rails and other things and all configuration below yo
 <br>
 rails s
 <h2>📝 Decomposition of tasks</h2>
-<h4>1. Deployment</h4>
+1. <h4>Deployment</h4>
 :white_check_mark: Initial deploy ptoject.
 <br>
 <br>
@@ -37,3 +37,4 @@ rails s
 <br>
 <br>
 :white_check_mark: CI/CD
+2. <h4>Registration Page</h4>
