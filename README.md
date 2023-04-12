@@ -22,7 +22,7 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 
 
 <h2>🚀 Usage</h2>
-Than after installation of rails and other things and all configuration below you can run code running command in your terminal or IDE: 'rails s'
+Than after installation of rails and other things and all configuration below you can run code running command in your terminal or IDE:'rails s'
 <br>
 <br>
 <h2>📝 Decomposition of tasks</h2>
