@@ -41,7 +41,7 @@ rails s
 :white_check_mark: CreateUserRequest.cs
 <br>
 <br>
-:white_check_mark: RegisterUser - Razor Pages.
+:white_check_mark: Register User.
 <br>
 <br>
 :white_check_mark: Input validation(Check if user written correct regex of name, username, email, password and if confirm password is similar to password).
