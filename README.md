@@ -5,4 +5,4 @@
 <br>
 A project as a university exam for "Web-tecnologies" class.Similar to Binance with some features. Project should has basic functions and features, algorithms which are similar or as an official Binance has too. Current project was developed only for practice interest.
 
-<h1>🛠️ Stack</h1>
+<h2>🛠️ Stack</h2>
