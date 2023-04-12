@@ -55,3 +55,17 @@ rails s
 <br>
 <br>
 :white_check_mark: Link to Login Page("Already signed up?").
+
+<br>
+<h4>3. Login Page</h4>
+:white_check_mark: LoginUserRequest.
+<br>
+<br>
+:white_check_mark: LoginUser.
+<br>
+<br>
+:white_check_mark: Input validation(Check user email and password from database).
+<br>
+<br>
+:white_check_mark: Password hashing.
+<br>
