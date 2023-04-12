@@ -16,7 +16,7 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
   *   <a href="https://guides.rubyonrails.org/active_record_basics.html">Active Record</a> - the M in MVC - the model - which is the layer of the system responsible for representing business data and logic
 <br>
 <br>
-<a href="https://www.postgresql.org/">Postgres</a> - is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
+  *   <a href="https://www.postgresql.org/">Postgres</a> - is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
 <br>
 <br>
 <a href=""></a>
