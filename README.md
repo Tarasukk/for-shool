@@ -72,8 +72,8 @@ rails s
 :white_check_mark: Password hashing.
 <br>
 <h4>4. API</h4>
-:white_check_mark: Integrate with coingeco api
 <br>
+:white_check_mark: Integrate with coingeco api
 Will be updated:smile:
 <br>
 <br>
