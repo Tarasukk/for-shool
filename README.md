@@ -26,6 +26,7 @@ Than after installation of rails and other things and all configuration below yo
 <br>
 rails s
 <h2>📝 Decomposition of tasks</h2>
+1.Deployment
  :white_check_mark: Initial deploy ptoject.
  <br>
  <br>
