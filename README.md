@@ -8,5 +8,11 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 
 <h2>🛠️ Stack</h2>
 * <a href="https://guides.rubyonrails.org/">Ruby on Rails</a> (Rails) - is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework
-- hello
-- 
+<br>
+* <a href="https://fly.io/">Fly.io</a> - is a platform for running full stack apps and databases close to your users
+<br>
+<a href=""></a>
+<br>
+<a href=""></a>
+<br>
+<a href=""></a>
