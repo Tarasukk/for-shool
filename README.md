@@ -7,4 +7,4 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 
 
 <h2>🛠️ Stack</h2>
-<a href="https://guides.rubyonrails.org/">Ruby on Rails</a> (Rails) is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework
+ - <a href="https://guides.rubyonrails.org/">Ruby on Rails</a> (Rails) - is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework
