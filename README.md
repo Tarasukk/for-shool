@@ -79,5 +79,4 @@ rails s
 :email:<a href="https://t.me/TarasUK1">Email</a>
 <br>
 <br>
-<br>
-:iphone:<a href="mailto:relaxsonik@gmail.com">Telegram</a>
+:phone:<a href="mailto:relaxsonik@gmail.com">Telegram</a>
