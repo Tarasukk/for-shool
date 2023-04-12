@@ -20,3 +20,5 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 <br>
 <br>
 <a href=""></a>
+
+<h2>🚀 Usage</h2>
