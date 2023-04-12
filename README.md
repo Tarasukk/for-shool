@@ -25,3 +25,4 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 Than after installation of rails and other things and all configuration below you can run code running command in your terminal or IDE:
 <br>
 rails s
+<h2>📝 Decomposition of tasks</h2>
