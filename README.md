@@ -25,6 +25,8 @@ A project as a university exam for "Web-tecnologies" class.Similar to Binance wi
 Than after installation of rails and other things and all configuration below you can run code running command in your terminal or IDE:
 <br>
 rails s
+<br>
+<br>
 <h2>📝 Decomposition of tasks</h2>
 <h4>1. Deployment</h4>
 :white_check_mark: Initial deploy ptoject.
@@ -74,3 +76,5 @@ rails s
 <br>
 <br>
 <h2>📱 Contact me</h2>
+<a href="https://t.me/TarasUK1">Email</a>
+<a href="mailto:relaxsonik@gmail.com">Telegram</a>
