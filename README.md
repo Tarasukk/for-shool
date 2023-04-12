@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://taras-rails-app.fly.dev/"><img src="URL">Taras version Binance :D</a> 
+  <a href="https://taras-rails-app.fly.dev/">>Taras version Binance :D</a> 
 </h1>
 
 <br>
