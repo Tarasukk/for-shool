@@ -76,5 +76,6 @@ rails s
 <br>
 <br>
 <h2>📱 Contact me</h2>
-<a href="https://t.me/TarasUK1">Email</a>
-<a href="mailto:relaxsonik@gmail.com">Telegram</a>
+:email:<a href="https://t.me/TarasUK1">Email</a>
+<br>
+:iphone:<a href="mailto:relaxsonik@gmail.com">Telegram</a>
