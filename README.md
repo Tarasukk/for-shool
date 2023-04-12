@@ -26,7 +26,7 @@ Than after installation of rails and other things and all configuration below yo
 <br>
 rails s
 <h2>📝 Decomposition of tasks</h2>
-1. <h4>Deployment</h4>
+<h4>1. Deployment</h4>
 :white_check_mark: Initial deploy ptoject.
 <br>
 <br>
@@ -37,4 +37,20 @@ rails s
 <br>
 <br>
 :white_check_mark: CI/CD
-2. <h4>Registration Page</h4>
+<h4>2. Registration Page</h4>
+:white_check_mark: CreateUserRequest.cs
+<br>
+<br>
+:white_check_mark: RegisterUser - Razor Pages.
+<br>
+<br>
+:white_check_mark: Input validation(Check if user written correct regex of name, username, email, password and if confirm password is similar to password).
+<br>
+<br>
+:white_check_mark: Input validation(Check if information already in use, like "User with current email is already signed up").
+<br>
+<br>
+:white_check_mark: Sign up with Google.
+<br>
+<br>
+:white_check_mark: Link to Login Page("Already signed up?").
