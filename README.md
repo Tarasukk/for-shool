@@ -26,9 +26,7 @@ Than after installation of rails and other things and all configuration below yo
 <br>
 
 ````
-```
 Look! You can see my backticks.
-```
 ````
 <br>
 <br>
