@@ -78,6 +78,11 @@ Look! You can see my backticks.
 <h4>4. API</h4>
 :white_check_mark: Integrate with coingeco api
 <br>
+````
+```
+Look! You can see my backticks.
+```
+````
 <br>
 Will be updated:smile:
 <br>
