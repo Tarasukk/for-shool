@@ -30,7 +30,6 @@ rails s
 ````
 
 <br>
-<br>
 <h2>📝 Decomposition of tasks</h2>
 <h4>1. Deployment</h4>
 :white_check_mark: Initial deploy ptoject.
